@@ -1,2 +1,2 @@
 # golang-core-dev-course
-GO Core Developer Course
+Golang Core Developer Course
